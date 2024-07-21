@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2,
+    "role": "Full-stack MERN Developer Intern",
+    "organisation": "FxBytes Technologies Pvt Ltd",
+    "startDate": "March",
+    "endDate": "May, 2024 ",
+    "location": "Indore,(M.P.)",
+    "experiences": [
+      "Developed full-stack applications using MERN stack",
+      "Collaborated with team members on project development",
+      "Learned and applied modern web development practices"
+    ],
+    "imageSrc": "company/FxByte..png"
+  }
+  ,
+  {
+    "id": 2,
+    "role": "Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
